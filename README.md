@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rewatha 👋
 
-<!--
-**Rewatha/Rewatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate in Computer Science & Software Engineering  
+💻 Aspiring Software Engineer | Web Development  
+📍 Sri Lanka
 
-Here are some ideas to get you started:
+## About Me
+I am a motivated software engineering undergraduate with hands-on experience in web development and academic projects. I enjoy building user-friendly applications, learning new technologies, and working in teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: Java, JavaScript, C, Lua
+- Web: HTML, CSS, Bootstrap
+- Tools: Git, GitHub, Visual Studio, Figma
+- Database: SQL
+
+## Projects
+- LionCodex – E-Commerce Website  
+- English Treasure Hunt – Educational Web Game  
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/rewatha-sumanarathne-2925bb1b2
