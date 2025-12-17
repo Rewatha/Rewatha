@@ -1,4 +1,4 @@
-# Hi, I'm Rewatha 👋
+# Hi, I'm Rewatha Sumanarathne👋
 
 🎓 Undergraduate in Computer Science & Software Engineering  
 💻 Aspiring Software Engineer | Web Development  
