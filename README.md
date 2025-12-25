@@ -15,7 +15,8 @@ I am a motivated software engineering undergraduate with hands-on experience in 
 
 ## Projects
 - LionCodex – E-Commerce Website  
-- English Treasure Hunt – Educational Web Game  
+- English Treasure Hunt – Educational Web Game
+- MediCare Plus - Cloud-Integrated Hospital Management System
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/rewatha-sumanarathne-2925bb1b2
