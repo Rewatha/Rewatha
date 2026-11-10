@@ -1,7 +1,9 @@
 # Hi, I'm Rewatha Sumanarathne👋
 
 🎓 Computer Networking Undergraduate at the University of Bedfordshire, UK
+
 🌐 Interested in Network Engineering, IT Infrastructure and Cybersecurity
+
 📍 Sri Lanka
 
 ## About Me
