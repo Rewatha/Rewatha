@@ -14,7 +14,7 @@ I have a foundation in computer networking, computer security, system administra
 I am currently developing my technical skills through academic work, networking labs and personal projects. I am looking forward to gaining industry experience in networking and cybersecurity.
 
 ## Technical Skills
-- Networking: TCP/IP, OSI Model, Subnetting, Routing and Switching, NAT, VPN, AAA/RADIUS
+- Networking: TCP/IP, OSI Model, Subnetting, Routing and Switching, NAT, VPN
 - Networking Tools: Cisco Packet Tracer
 - Security: OWASP ZAP, Web Application Vulnerability Assessment
 - Systems: Windows VPS Administration, SFTP, Remote Server Management
