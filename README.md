@@ -23,8 +23,6 @@ I am currently developing my technical skills through academic work, networking 
 - Web Technologies: HTML, CSS, Bootstrap
 
 ## Projects
-- Cisco Packet Tracer Network Configuration Labs
-- Game Server Hosting and Administration
 - IoT Telemetry System
 - MediCare Plus
 - LionCodeX E-Commerce Website
